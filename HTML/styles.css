@@ -5,5 +5,8 @@ h1 {
 	color: black;
 }
 p {
-	color: red;
+	color: purple;
+	font-style: symbol;
+	font-size: 500%;
+
 }
