@@ -1,12 +1,12 @@
 body {
-	background-color: Yellow;
+	background-color: yellow;
 }
 h1 {
-	color: black;
+	color:black;
+	font-family: : verdana;
 }
 p {
-	color: purple;
-	font-style: symbol;
-	font-size: 500%;
-
+	color:black;
+	font-family: : Times;
+	font-size: 200%;
 }
